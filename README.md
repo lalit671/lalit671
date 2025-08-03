@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lalit Singh Baghari</h1>
-<h3 align="center">A curious mind, a code crafter, and a full-time tech explorer 🚀</h3>
+<h3 align="center">An aspiring software developer on a mission to build impactful digital experiences — whether it's crafting full-stack applications, solving algorithmic challenges, or experimenting with AI. I’m endlessly curious, always learning, and passionate about turning complex problems into elegant solutions (preferably with clean code and zero caffeine ☕).</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lalitsinghbaghari&label=Profile%20views&color=0e75b6&style=flat" alt="lalitsinghbaghari" />
